@@ -1,0 +1,1 @@
+{"name":"aniket-portfolio","version":"2.0.0","private":true,"scripts":{"dev":"next dev --hostname 127.0.0.1 --port 4174","build":"next build"},"dependencies":{"next":"^16.2.0","react":"^19.2.0","react-dom":"^19.2.0","lucide-react":"^0.468.0"}}

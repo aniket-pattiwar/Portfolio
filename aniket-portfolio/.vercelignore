@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+dist
+.openai
+.sites-runtime
+.git
+.env*
+*.log
+*.zip
+AGENTS.md
+CLAUDE.md

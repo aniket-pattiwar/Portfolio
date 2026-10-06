@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+.sites-runtime/
+*.log
+.vercel/
+.env*
+dist/
+.openai/
